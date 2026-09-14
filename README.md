@@ -7,14 +7,13 @@
 
 <p align="center">
   <img alt="Windows 10 and 11 x64" src="https://img.shields.io/badge/Windows-10%20%7C%2011%20x64-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white">
-  <a href="https://github.com/KlowzyZ/DiskLedger/releases/tag/v0.1.0-rc.1"><img alt="Version v0.1.0-rc.1" src="https://img.shields.io/badge/version-v0.1.0--rc.1-2563EB?style=flat-square"></a>
+  <img alt="Version v0.1.0-rc.1" src="https://img.shields.io/badge/version-v0.1.0--rc.1-2563EB?style=flat-square">
   <img alt="Pre-release" src="https://img.shields.io/badge/status-pre--release-F59E0B?style=flat-square">
   <img alt="Proprietary license" src="https://img.shields.io/badge/license-proprietary-334155?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/KlowzyZ/DiskLedger/releases/tag/v0.1.0-rc.1"><img alt="Download DiskLedger RC1" src="https://img.shields.io/badge/Download-DiskLedger%20RC1-16A34A?style=for-the-badge&amp;logo=github"></a><br>
-  <sub><strong>v0.1.0-rc.1</strong> · Release Candidate / Pre-release · Windows x64</sub>
+  <sub><strong>v0.1.0-rc.1</strong> · Release Candidate / Pre-release · Windows x64 · Published as GitHub Release assets</sub>
 </p>
 
 ---
@@ -61,7 +60,7 @@ Hard Disk Sentinel Professional supplies the drive status. DiskLedger records da
 
 ## Quick start
 
-1. **Download [DiskLedger v0.1.0-rc.1](https://github.com/KlowzyZ/DiskLedger/releases/tag/v0.1.0-rc.1)** and extract the Windows x64 package.
+1. Open this repository’s **Releases** section, obtain DiskLedger v0.1.0-rc.1, and extract the Windows x64 package.
 2. On the **main PC**, set up **DiskLedger Server + DiskLedger Desktop** using the guides included in the package.
 3. On each **test PC**, run a registered **Hard Disk Sentinel Professional** installation with WMI status enabled, then set up the **DiskLedger Agent**.
 4. Keep the DiskLedger machines connected to the same LAN so queued Agent records can synchronize with the Server and appear in Desktop.
