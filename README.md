@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://klowzy.com/branding/diskledger-icon.webp" alt="DiskLedger application icon" width="144">
+</p>
+
 <h1 align="center">DiskLedger</h1>
 
 <p align="center">
