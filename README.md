@@ -79,7 +79,9 @@ Uninstalling keeps your drive history unless you choose to delete it. Upgrading 
 
 ## Screenshots
 
-See [screenshots/](screenshots/) — captured automatically on Windows with DiskLedger's built-in **demo mode** (invented drives in a separate demo ledger), not from real hardware.
+<p align="center"><img src="screenshots/dashboard.png" alt="DiskLedger dashboard (demo mode)" width="760"></p>
+
+More in [screenshots/](screenshots/). All screenshots are captured automatically on Windows with DiskLedger's built-in **demo mode** (invented drives in a separate demo ledger) — not from real hardware.
 
 ## Known limitations of this preview
 
