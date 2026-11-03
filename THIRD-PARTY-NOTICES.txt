@@ -1,0 +1,29 @@
+DiskLedger — third-party notices
+================================
+
+DiskLedger is proprietary software, Copyright © 2026 KLOWZY. All rights reserved.
+It includes the following third-party components, each under its own licence.
+Full licence texts are available at the URLs given.
+
+.NET runtime, Windows Presentation Foundation (WPF), Windows Forms, ASP.NET Core,
+System.Management, System.Security.Cryptography.ProtectedData,
+Microsoft.Data.Sqlite, Microsoft.Extensions.*
+  Copyright (c) .NET Foundation and Contributors. MIT License.
+  https://github.com/dotnet/runtime/blob/main/LICENSE.TXT
+  https://github.com/dotnet/wpf/blob/main/LICENSE.TXT
+  https://github.com/dotnet/aspnetcore/blob/main/LICENSE.txt
+  https://github.com/dotnet/efcore/blob/main/LICENSE.txt
+
+CommunityToolkit.Mvvm
+  Copyright (c) .NET Foundation and Contributors. MIT License.
+  https://github.com/CommunityToolkit/dotnet/blob/main/License.md
+
+SQLitePCLRaw (bundle_e_sqlite3, provider.e_sqlite3, lib.e_sqlite3)
+  Copyright (c) Eric Sink. Apache License 2.0.
+  https://github.com/ericsink/SQLitePCL.raw/blob/master/LICENSE.TXT
+
+SQLite
+  Public domain. https://sqlite.org/copyright.html
+
+Hard Disk Sentinel is a separate product of its respective owner. It is NOT included with
+DiskLedger, and DiskLedger is not affiliated with or endorsed by it.

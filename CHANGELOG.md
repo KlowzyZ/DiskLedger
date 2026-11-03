@@ -5,6 +5,25 @@ All notable changes to DiskLedger are documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0-preview.1] - 2026-11-03
+
+**Preview — not yet verified on real workshop hardware.**
+
+DiskLedger 2 is a complete rebuild.
+
+### Changed
+- One Windows application (`DiskLedger.exe`) replaces DiskLedger Agent, Server and Desktop. No services, scripts, server, database or .NET installation required; installs per user without administrator rights.
+- Works on a single PC out of the box. Workshop (multi-PC) mode is optional and set up from inside the app with a setup code; all workshop traffic is encrypted and authenticated.
+- Reads drives directly through Windows (identity, interface, type, Windows health; SMART and NVMe health with full access). Hard Disk Sentinel Professional is now optional.
+- New interface: Dashboard, Drives, Drive details with trends and timeline, History search, Computers, Settings. English, Turkish and Arabic.
+- Official KLOWZY DiskLedger icon.
+
+### Added
+- Installer (`…-Setup.exe`) and portable ZIP; automatic import of 0.1 history; daily backups; CSV/JSON export; `--probe` hardware report.
+
+### Removed
+- The 0.1 Agent/Server Windows services, PowerShell deployment scripts and the unauthenticated v1 LAN API.
+
 ## [0.1.0-rc.1] - 2026-09-03
 
 ### Release Candidate 1 — Initial Pre-Release Distribution

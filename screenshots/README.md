@@ -1,8 +1,4 @@
-# DiskLedger Screenshots
+# DiskLedger screenshots
 
-This directory contains application screenshots for DiskLedger Desktop:
-- dashboard.png - Live connected disks and status
-- drives.png - Central known drives registry
-- history.png - Drive history timeline and health progression
-- search.png - Rapid serial and model search
-- settings.png - Central server and update check configuration
+Captured automatically on Windows by DiskLedger's `--smoke-test` mode for v2.0.0-preview.1, using the built-in
+**demo mode** (invented drives in a separate demo ledger). They show the user interface, not results from real hardware.
