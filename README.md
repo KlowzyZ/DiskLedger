@@ -17,13 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KlowzyZ/DiskLedger/releases/download/v2.0.0-preview.1/DiskLedger-v2.0.0-preview.1-win-x64-Setup.exe"><strong>Download installer</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/KlowzyZ/DiskLedger/releases/download/v2.0.0-preview.1/DiskLedger-v2.0.0-preview.1-win-x64-Portable.zip"><strong>Download portable ZIP</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/KlowzyZ/DiskLedger/releases/tag/v2.0.0-preview.1">Release notes</a>
-  &nbsp;·&nbsp;
-  <a href="https://klowzy.com/diskledger">klowzy.com/diskledger</a>
+  <a href="https://klowzy.com/diskledger">Official DiskLedger website</a>
 </p>
 
 > [!IMPORTANT]
@@ -55,11 +49,13 @@ DiskLedger 2 is **one Windows application**. There is no server to set up, no da
 
 ## Download and install
 
-| File | What it is |
+Open the **Releases** tab on this repository and select the current preview release. The release's **Assets** section contains the packages and checksums. No binary download links are embedded in this README.
+
+| File (release asset name) | What it is |
 |---|---|
-| [**DiskLedger-v2.0.0-preview.1-win-x64-Setup.exe**](https://github.com/KlowzyZ/DiskLedger/releases/download/v2.0.0-preview.1/DiskLedger-v2.0.0-preview.1-win-x64-Setup.exe) | Recommended. Installs for the current user — **no administrator rights needed**. Start menu entry, optional start at sign-in, uninstaller. |
-| [**DiskLedger-v2.0.0-preview.1-win-x64-Portable.zip**](https://github.com/KlowzyZ/DiskLedger/releases/download/v2.0.0-preview.1/DiskLedger-v2.0.0-preview.1-win-x64-Portable.zip) | No installation. Unzip and run `DiskLedger.exe`; history is stored in a `Data` folder next to it. |
-| [SHA256SUMS.txt](https://github.com/KlowzyZ/DiskLedger/releases/download/v2.0.0-preview.1/SHA256SUMS.txt) | Checksums. Verify with `Get-FileHash <file> -Algorithm SHA256`. |
+| `DiskLedger-v2.0.0-preview.1-win-x64-Setup.exe` | Recommended. Installs for the current user — **no administrator rights needed**. Start menu entry, optional start at sign-in, uninstaller. |
+| `DiskLedger-v2.0.0-preview.1-win-x64-Portable.zip` | No installation. Unzip and run `DiskLedger.exe`; history is stored in a `Data` folder next to it. |
+| `SHA256SUMS.txt` | Checksums. Verify with `Get-FileHash <file> -Algorithm SHA256`. |
 
 **Requirements:** Windows 10 (1809 or later) or Windows 11, 64-bit. Nothing else.
 
